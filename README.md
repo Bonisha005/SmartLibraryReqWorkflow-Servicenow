@@ -1,0 +1,2 @@
+The Library Management Project successfully streamlined the process of borrowing and managing books within ServiceNow by integrating role-based access, automated approvals, and dynamic workflows. Students can easily submit barrow requests, while librarians efficiently review, approve, and issue books with proper validations. The solution ensures transparency through status tracking, notifications, and reporting features. By combining automation with usability, the project delivers a scalable foundation that can be extended to broader academic services in the future.
+
